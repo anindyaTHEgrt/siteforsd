@@ -1,0 +1,66 @@
+/* =============================================================================
+ * OPERATION: MAKE SAKSHI SMILE - GLOBAL DESIGN SYSTEM TOKENS
+ * ============================================================================= */
+
+:root {
+  /* Color Palette (from PDF Concept Brief) */
+  --midnight-plum: #211D3D;
+  --bubblegum-pink: #FFB5D2;
+  --mint-green: #C8F7DC;
+  --warm-parchment: #FFF0CF;
+
+  /* Extended Harmony Shades */
+  --deep-plum: #18122B;
+  --plum-surface: #2E2648;
+  --plum-border: #443864;
+  --pink-accent: #FF85B2;
+  --pink-dark: #FF4365;
+  --gold-accent: #FFD166;
+  --parchment-deep: #F5E3BD;
+  --parchment-border: #523824;
+
+  /* Typography */
+  --font-pixel: 'Press Start 2P', monospace;
+  --font-retro: 'Silkscreen', monospace;
+  --font-terminal: 'VT323', monospace;
+  --font-body: 'Nunito', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Pixel Shadows & Borders */
+  --pixel-shadow-sm: 0 4px 0 rgba(33, 29, 61, 0.4);
+  --pixel-shadow-md: 0 6px 0 rgba(33, 29, 61, 0.6);
+  --pixel-shadow-lg: 0 8px 0 rgba(33, 29, 61, 0.8);
+  --pixel-border: 4px solid var(--midnight-plum);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  min-height: 100%;
+  font-family: var(--font-body);
+  background-color: var(--midnight-plum);
+  color: var(--midnight-plum);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--plum-surface);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--bubblegum-pink);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--pink-accent);
+}
