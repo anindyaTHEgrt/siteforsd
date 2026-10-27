@@ -100,7 +100,7 @@ export default function Screen05Library({ onNext, onPrev }) {
                       <div className="memory-sweetheart-icon">🌸</div>
                     </div>
                   </div>
-                  <div className="polaroid-caption">Forever Sakshi & Boyfriend ✨</div>
+                  <div className="polaroid-caption">Forever Sakshi & Anindya ✨</div>
                 </div>
               )}
             </div>

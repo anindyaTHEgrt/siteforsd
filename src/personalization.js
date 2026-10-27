@@ -168,9 +168,9 @@ export const personalConfig = {
         preview: "Contains memories, giggles, and endless love.",
         // ✏️ [EDIT HERE] Personal affectionate note in Book 3:
         pages: [
-          "Entry 01: You make every ordinary day feel like a special adventure.",
-          "Entry 02: Even when we argue or I do something silly, there is no one else I'd rather be with.",
-          "Entry 03: Thank you for your warmth, your smile, and your patience with me.",
+          "Entry 01: Dear diary, I just saw this super cute girl in my PEP.",
+          "Entry 02: I cannot find her insta. I think I should DM her on LinkdIn",
+          "Entry 03: Lesgoooo she asked me for a case comp. This is my time to shine",
           "P.S. I really do love you more than words or pixels can say."
         ]
       }
