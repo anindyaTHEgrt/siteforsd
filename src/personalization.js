@@ -16,8 +16,8 @@ export const personalConfig = {
   // ✏️ [EDIT HERE] NAMES & TITLES
   // ===========================================================================
   girlfriendName: "Sakshi",
-  girlfriendNickname: "Pretty Girl", // ✏️ e.g. "Choti", "Pari", "Gunda", or whatever cute nickname you use
-  boyfriendName: "Your Boyfriend",   // ✏️ Replace with your actual name if you wish!
+  girlfriendNickname: "Cutu", // ✏️ e.g. "Choti", "Pari", "Gunda", or whatever cute nickname you use
+  boyfriendName: "Anindya",   // ✏️ Replace with your actual name if you wish!
   boyfriendSignoff: "Your slightly stupid but very lucky boyfriend ■",
 
   // ===========================================================================
@@ -56,7 +56,7 @@ export const personalConfig = {
       },
       {
         label: "Ability to come up with an apology in the moment",
-        status: "404 not found",
+        status: "Not found",
         percentage: 0,
         severity: "critical",
         note: "System froze entirely when asked what to do"
@@ -84,7 +84,7 @@ export const personalConfig = {
       }
     ],
     // ✏️ [EDIT HERE] The diagnosis punchline:
-    diagnosis: "Diagnosis: Boyfriend is an idiot. Unfortunately, he's YOUR idiot.",
+    diagnosis: "Diagnosis: Anindya is an idiot. Unfortunately, he's YOUR idiot.",
     buttonText: "BEGIN REHABILITATION ➔"
   },
 
@@ -96,17 +96,17 @@ export const personalConfig = {
     recipient: "Dear Sakshi,",
     // ✏️ [EDIT HERE] Customize each paragraph of your heartfelt letter!
     paragraphs: [
-      "So, you asked me to make it up to you, and in that moment, my brain had absolutely nothing. Zero ideas. No thoughts. Just vibes.",
-      "Which is honestly impressive, considering I somehow have enough brainpower to annoy you in the first place. ■",
-      "I know I was joking around, but I get that it made you a little mad, and I'm sorry. I don't want to brush that off just because I meant it as a joke. I care about how you feel, even when I'm just being my usual annoying self.",
-      "So I made you this little game. Is it a completely reasonable response to being told to make it up to your girlfriend? Probably not. Could I have just bought you a Chupa Chups and apologised like a normal person? Absolutely.",
-      "But you deserve a little effort, and I wanted to make something that's just for you.",
+      "So, you asked me to make it up to you, and in that moment, my brain had absolutely nothing. Zero ideas. No thoughts.",
+      "Yaar mujhe nahi hua Strike, ya Click 😭😭. ",
+      "BUT BUT BUT... apke saath rehke seekh jaunga cutu ko kaise manate hai. Promise",
+      "Now, this is a way i can make up to you. Yahi ata hai yaar mujhe.",
+      "So I made you this little game.",
       "You're my favourite person to annoy, my favourite person to talk to, and someone I never want to make feel like her feelings don't matter.",
       "I'm still learning how to get things right. But I want to be someone who listens, who knows when to stop joking around, and who makes you feel loved even in the smallest moments.",
       "Also, please note that the boyfriend in this game is very sorry, extremely cute, and currently accepting bonks as punishment.",
       "I love you, Sakshi. Here's your virtual Chupa Chups for now. Your actual one is a separate matter. ■"
     ],
-    signoff: "Love,\nYour slightly stupid but very lucky boyfriend ■",
+    signoff: "Love,\nYour slightly stupid but very lucky cutu ■",
     continueButtonText: "RECEIVE TRIBUTE ➔"
   },
 
@@ -241,7 +241,7 @@ export const personalConfig = {
     title: "The Final Decision",
     // ✏️ [EDIT HERE] Prompt question:
     question: "“Okay, Sakshi. I've completed my mission... or have I? ■ How are we feeling, madam?”",
-    
+
     // ✏️ [EDIT HERE] Happy button response:
     happyResponse: {
       buttonText: "I'M HAPPY 💕",
